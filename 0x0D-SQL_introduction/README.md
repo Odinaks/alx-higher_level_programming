@@ -1,6 +1,6 @@
 # SQL - Introduction
 
-## Tasks :page_with_curl:
+## Tasks :page_with_curl
 
 * **0. List databases**
   * [0-list_databases.sql](./0-list_databases.sql): MySQL script that lists all databases.
